@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/rafaelrcorrea/CustomTabBarNavigation/master/capture-screen.png" title="capture-screen" alt="capture-screen">
+
 # CustomTabBarNavigation
 (React-Native) A custom TabBarNavigation for react-navigation.
 
